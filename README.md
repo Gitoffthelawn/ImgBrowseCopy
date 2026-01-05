@@ -1,5 +1,7 @@
 Browses images in folder A (displays them in GUI window), when you hit enter - image is copied to folder B, when you hit right arrow - next image in queue is displayed.
 
+OS supported: Windows
+
 Command line arguments:
 ```
 -s, --source         Required. Source path to read images from
